@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashed4t4/Nodejs-Threejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashed4t4/Nodejs-Threejs/issues"
+  },
+  "homepage": "https://github.com/rashed4t4/Nodejs-Threejs#readme",
+  "dependencies": {
+    "three": "^0.129.0"
+  }
+}
